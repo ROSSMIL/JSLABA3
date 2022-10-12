@@ -18,7 +18,6 @@ for (var i = 1; i < 101; i++) {
     }
 }
 //Задача 3
-
 let a = "" + 1 + 0;
  console.log(a);
 
